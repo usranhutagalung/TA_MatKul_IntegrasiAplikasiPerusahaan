@@ -1,0 +1,47 @@
+[
+    {
+        "nama" : "Usran Bangun Fajar Hutagalung",
+        "umur" : 21,
+        "nim" : "2217020050",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "Swimming",
+            "music"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Haditya Prasetyo",
+            "pembimbing 2" : "Yaslinda Lizar"
+        }
+    },
+    {
+        "nama" : "Muhammad Nurul Fajri",
+        "umur" : 20,
+        "nim" : "2217020054",
+        "lulus" : false,
+        "hobby" : [
+            "reading",
+            "watching",
+            "dance"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Ozzy Secio Riza",
+            "pembimbing 2" : "M. Yusuf"
+        }
+    },
+    {
+        "nama" : "Muhammad Irfandi Attarza",
+        "umur" : 21,
+        "nim" : "2217020050",
+        "lulus" : false,
+        "hobby" : [
+            "learning",
+            "watching",
+            "singing"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Mustika Sukma Utari",
+            "pembimbing 2" : "Raju Wandira"
+        }
+    }
+]
