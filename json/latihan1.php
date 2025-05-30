@@ -4,7 +4,7 @@
 //     [
 //         "nama" => "Usran Bangun Fajar HUtagalung",
 //         "nim" => "2217020150",
-//         "email" => "usranhutagalung04@gmail."
+//         "email" => "usranhutagalung04@gmail.com"
 //     ],
 //     [
 //         "nama" => "Muhammad Nurul Fajri",
